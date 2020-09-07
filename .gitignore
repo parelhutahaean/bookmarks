@@ -65,3 +65,5 @@ migrations/
 *.jpeg
 
 .env
+cert.crt
+cert.key
