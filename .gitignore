@@ -67,3 +67,4 @@ migrations/
 .env
 cert.crt
 cert.key
+media/
